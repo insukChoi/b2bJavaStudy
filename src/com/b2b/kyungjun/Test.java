@@ -6,5 +6,6 @@ package com.b2b.kyungjun;
 public class Test{
   public static void main(String[] args){
     System.out.println("Hello World! KyungJun!");
+    System.out.println("okok commit gogo");
   }
 }
